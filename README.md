@@ -4,9 +4,9 @@ silence file system monitoring components by hooking file system minifilters
 Tested on Windows 10 1903, 21H2 and 22H2
 
 # Usage:
-**Install .inf file**
+**Install .inf file  -> right click + install or use SetupApi to install programtically**
 
-**Load WdfltHook.sys -> Use fltmc load in test mode or my unsigned driver loader : https://github.com/0mWindyBug/KDP-compatible-driver-loader/tree/main**
+**Load WdfltHook.sys -> fltmc load  (test mode on)  or via an unsigned driver loader like : https://github.com/0mWindyBug/KDP-compatible-driver-loader/tree/main**
 
 # How it works 
 Driver Signature Enforcement is implemented within CI.dll. Based on Reverse Engineering of the signature validation process we know nt!SeValidateImageHeader calls CI!CiValidateImageHeader.  
