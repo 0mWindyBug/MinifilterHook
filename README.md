@@ -8,7 +8,7 @@ You can easily modify the POC to target a different filter driver , simply chang
 # Usage:
 **Install .inf file  -> right click + install or use SetupApi to install programtically**
 
-**Load WdfltHook.sys -> fltmc load  (test mode on)  or via an unsigned driver loader like : https://github.com/0mWindyBug/KDP-compatible-driver-loader/tree/main**
+**Load WdfltHook.sys -> via an unsigned driver loader like : https://github.com/0mWindyBug/KDP-compatible-driver-loader/tree/main**
 
 # How it works 
 Read (English) : tbd 
@@ -20,4 +20,6 @@ Read (Hebrew)  : tbd
 
 
 # Notes
-- Thanks to for contributing 
+- Thanks to @GetRektBoy724 for contributing
+
+  
