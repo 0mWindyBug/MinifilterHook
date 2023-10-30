@@ -3,7 +3,7 @@ Silence file system monitoring components by hooking their minifilters
 
 Tested on Windows 10 1903, 21H2 and 22H2 against WdFilter
 
-You can easily modify the POC to target a different filter driver -> simply change TARGET_FILTER_NAME and TARGET_FILTER_DRIVER  
+You can easily modify the POC to target other filter driver -> simply change TARGET_FILTER_NAME and TARGET_FILTER_DRIVER  
 
 # Usage:
 **Install .inf file  -> right click + install or use SetupApi to install programtically**
