@@ -1,5 +1,5 @@
 # MinifilterHook
-Silence file system monitoring components by hooking file system minifilters
+Silence file system monitoring components by hooking their minifilters
 
 Tested on Windows 10 1903, 21H2 and 22H2 against WdFilter
 
