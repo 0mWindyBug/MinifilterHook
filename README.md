@@ -11,15 +11,13 @@ POC can be easily modified to target other filter drivers -> simply change TARGE
 **Load WdfltHook.sys -> via an unsigned driver loader like : https://github.com/0mWindyBug/KDP-compatible-driver-loader/tree/main**
 
 # How it works 
-Read (English) : tbd 
-
-Read (Hebrew)  : tbd 
+Read HowItWorks.pdf ! 
 ***************************
 # Demo
 tbd
 
 
 # Notes
-- Thanks to @GetRektBoy724 for contributing
+- Thanks to @GetRektBoy724 for his contribution 
 
   
