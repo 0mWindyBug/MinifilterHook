@@ -26,5 +26,5 @@ After loading our driver:
 # Notes
 - Thanks to @GetRektBoy724 for his contribution 
 - We restore everything during unload so be aware
-- Similar UM implementation will be soon published & integrated to https://github.com/wavestone-cdt/EDRSandblast
+- Similar implementation using only a r/w primitive from UM (no driver) will be soon published & integrated to https://github.com/wavestone-cdt/EDRSandblast
   
