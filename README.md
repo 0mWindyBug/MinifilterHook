@@ -14,10 +14,11 @@ POC can be easily modified to target other filter drivers -> simply change TARGE
 Read HowItWorks.pdf ! 
 ***************************
 # Demo
-![demo3](https://github.com/0mWindyBug/MinifilterHook/assets/139051196/8fd4521c-35b4-425b-bf64-12d9309e6f54)
+Before loading our driver
 ![demo1](https://github.com/0mWindyBug/MinifilterHook/assets/139051196/27474da0-726d-4e26-b785-9926138f23a8)
-![demo2](https://github.com/0mWindyBug/MinifilterHook/assets/139051196/f87bc834-5ac4-4922-a928-61faa17c6956)
 
+After loading our driver 
+![demo3](https://github.com/0mWindyBug/MinifilterHook/assets/139051196/8fd4521c-35b4-425b-bf64-12d9309e6f54)
 
 # Notes
 - Thanks to @GetRektBoy724 for his contribution 
